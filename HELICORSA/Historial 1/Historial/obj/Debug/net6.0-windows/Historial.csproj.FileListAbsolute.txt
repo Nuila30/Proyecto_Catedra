@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\bin\Debug\net6.0-windows\Historial.exe
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\bin\Debug\net6.0-windows\Historial.deps.json
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\bin\Debug\net6.0-windows\Historial.runtimeconfig.json
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\bin\Debug\net6.0-windows\Historial.dll
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\bin\Debug\net6.0-windows\Historial.pdb
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.Form1.resources
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.AssemblyInfo.cs
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.dll
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\refint\Historial.dll
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.pdb
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\Historial.genruntimeconfig.cache
+C:\Users\user\Desktop\Nueva carpeta\Historial 1\Historial\obj\Debug\net6.0-windows\ref\Historial.dll
